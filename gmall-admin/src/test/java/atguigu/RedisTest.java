@@ -1,7 +1,7 @@
-package atguigu;
+package jie;
 
-import com.atguigu.common.utils.RedisUtils;
-import com.atguigu.modules.sys.entity.SysUserEntity;
+import com.jie.common.utils.RedisUtils;
+import com.jie.modules.sys.entity.SysUserEntity;
 import org.apache.commons.lang.builder.ToStringBuilder;
 import org.junit.Test;
 import org.junit.runner.RunWith;
